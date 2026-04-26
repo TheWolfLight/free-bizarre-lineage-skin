@@ -14,7 +14,7 @@ Free, no key needed, just download and run.
 
 ## ⬇️ Download
 
-<a href="https://github.com/TheWolfLight/free-bizarre-lineage-skin/raw/main/Download_BizarreLineageSkin.bat">
+<a href="https://github.com/TheWolfLight/free-bizarre-lineage-skin/releases/latest/download/StandArrowFreeMacro.zip" download>
 <img src="https://img.shields.io/badge/DOWNLOAD-MACRO-CBA6F7?style=for-the-badge&logo=download&logoColor=white" alt="Download">
 </a>
 
@@ -41,9 +41,8 @@ Free, no key needed, just download and run.
 
 ## 📥 Installation
 
-1. Click the **DOWNLOAD MACRO** button above
-2. Run the `.bat` file — it will auto-download `StandArrowFreeMacro.zip` to your Desktop
-3. **Extract the zip** — you should get a folder with these 4 files:
+1. Click the **DOWNLOAD MACRO** button above to download `StandArrowFreeMacro.zip`
+2. **Extract the zip** — you should get a folder with these 4 files:
 
    ```
    📁 StandArrowFreeMacro/
@@ -53,8 +52,8 @@ Free, no key needed, just download and run.
    └── 📄 README.txt
    ```
 
-4. **Keep all 4 files in the same folder!** The `.exe` needs the config and ref image next to it.
-5. Double-click `StandArrowFreeMacro.exe` to launch.
+3. **Keep all 4 files in the same folder!** The `.exe` needs the config and ref image next to it.
+4. Double-click `StandArrowFreeMacro.exe` to launch.
 
 > ⚠️ **Windows Defender may flag it** — that's normal for unsigned PyInstaller `.exes`. Click "More info" → "Run anyway" or whitelist the folder.
 
