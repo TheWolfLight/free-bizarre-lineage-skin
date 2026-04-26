@@ -48,9 +48,9 @@ Free, no key needed, just download and run.
 
 ### Step-by-step
 
-1. **Open Roblox** and join YBA (Your Bizarre Adventure)
+1. **Open Roblox** and join bizarre lineage
 2. **Launch the macro** — Roblox will auto-resize and dock beside the macro window
-3. **Press F2**, then **right-click on the zone** where you want the macro to click after spawning the arrow
+3. **Change your bizarre lineage inventory key** - Rebing ur inventory key in the bizarre lineage settings to J please it wont work if u dont do that
 4. **(Optional)** check the worthiness "0" reference is captured — if not, set the worthiness corners and click `Capture '0'` while your worthiness *is* showing 0
 5. **Press F1** to start spinning!
 6. The macro will automatically stop when worthiness = 0 (= you got a skin)
