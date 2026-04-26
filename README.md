@@ -71,9 +71,9 @@ Free, no key needed, just download and run.
 
 ### Step-by-step
 
-1. **Open Roblox** and join YBA (Your Bizarre Adventure)
+1. **Open Roblox** and join bizarre lineage
 2. **Launch the macro** — Roblox will auto-resize and dock beside the macro window
-3. **Press F2**, then **right-click on the zone** where you want the macro to click after spawning the arrow
+3. **Update your inventory key** - In bizarre lineage settings change your inventory open key to J instead of the one you have
 4. **(Optional)** check the worthiness "0" reference is captured — if not, set the worthiness corners and click `Capture '0'` while your worthiness *is* showing 0
 5. **Press F1** to start spinning!
 6. The macro will automatically stop when worthiness = 0 (= you got a skin)
@@ -118,7 +118,7 @@ This makes it way more reliable than OCR for a single digit.
 > A: Re-capture the "0" reference: set the worthiness corners in the Positions tab, wait until your in-game worthiness *is* 0, then click `Capture '0'`.
 
 > **Q: Does this get me banned?**
-> A: Use at your own risk. The macro uses hardware-level input so it's very hard to detect, but no automation is ever truly risk-free.
+> A: no you wont get banned.
 
 > **Q: Can I run this on Mac/Linux?**
 > A: Windows only — uses Win32 APIs for the Roblox window management.
@@ -134,12 +134,6 @@ Open a ticket in our [Discord server](https://discord.gg/YOUR_INVITE_HERE). Incl
 - Your screen resolution
 - A screenshot of the macro's status
 - What step it fails on
-
----
-
-## ⚠️ Disclaimer
-
-This is a third-party tool, not affiliated with Roblox or YBA. Use at your own risk. Don't blame me if you get banned, your stand gets stolen, or your dog runs away.
 
 ---
 
