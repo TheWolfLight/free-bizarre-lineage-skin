@@ -93,7 +93,7 @@ This makes it way more reliable than OCR for a single digit.
 > A: Re-capture the "0" reference: set the worthiness corners in the Positions tab, wait until your in-game worthiness *is* 0, then click `Capture '0'`.
 
 > **Q: Does this get me banned?**
-> A: Use at your own risk. The macro uses hardware-level input so it's very hard to detect, but no automation is ever truly risk-free.
+> A: You wont ever get banned because of it.
 
 > **Q: Can I run this on Mac/Linux?**
 > A: Windows only — uses Win32 APIs for the Roblox window management.
@@ -109,12 +109,6 @@ Drop a comment below or DM me. Include:
 - Your screen resolution
 - A screenshot of the macro's status
 - What step it fails on
-
----
-
-## ⚠️ Disclaimer
-
-This is a third-party tool, not affiliated with Roblox or YBA. Use at your own risk. Don't blame me if you get banned, your stand gets stolen, or your dog runs away.
 
 ---
 
