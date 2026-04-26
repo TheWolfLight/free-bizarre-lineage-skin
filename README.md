@@ -130,7 +130,7 @@ This makes it way more reliable than OCR for a single digit.
 
 ## 🐛 Issues / Bugs?
 
-Open a ticket in our [Discord server](https://discord.gg/YOUR_INVITE_HERE). Include:
+Open a ticket in our [Discord server](https://discord.gg/btNHCKbKAn). Include:
 - Your screen resolution
 - A screenshot of the macro's status
 - What step it fails on
